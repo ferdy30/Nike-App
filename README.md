@@ -1,16 +1,10 @@
 # nike_app
 
-A new Flutter project.
+Luis Fernando Lovo Juarez LJ222345
 
-## Getting Started
+## APP
 
-This project is a starting point for a Flutter application.
+![Captura de pantalla 2023-10-02 201248](https://github.com/ferdy30/NikeApp/assets/110478914/561225db-8112-427f-bf67-8f5eb01c54c6)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+VIDEO
+https://drive.google.com/drive/folders/16wFskohXnWUiCoHIURiUUKcKZo1Nin67?usp=sharing
